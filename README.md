@@ -3,7 +3,7 @@ Project Store Sales Data Cleaning and Analysis with SQL
 
 **Summary of Sales Data Analysis Work with SQL**
 
-This report outlines the data cleaning and analysis process performed on a superstore's sales data using Structured Query Language (SQL). The primary objective was to gain a better understanding of business performance by analyzing sales trends, customer behavior, and product line effectiveness.
+This report outlines the data cleaning and analysis process performed on a superstore's sales data using Structured Query Language (SQL). This data was sourced from Kaggle [Superstore Sales Dataset](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting), with the main goal of gaining a deeper understanding of business performance by analyzing sales trends, customer behavior, and the effectiveness of different product lines.
 
 **Work Performed:**
 
