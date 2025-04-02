@@ -2,6 +2,7 @@
 Project Store Sales Data Cleaning and Analysis with SQL
 
 Other projects : [Projects Introduction](https://github.com/ViaThanh/1-Projects-Introduction), [Investment Opportunity Analysis](https://github.com/ViaThanh/4-Data-Preprocessing-and-Investment-Opportunity-Analysis), [Users Behaviours Analysis](https://github.com/ViaThanh/3-Netflix-Users-Behaviours-Analysis)
+
 **Summary of Sales Data Analysis Work with SQL**
 
 This report outlines the data cleaning and analysis process performed on a superstore's sales data using Structured Query Language (SQL). This data was sourced from Kaggle [Superstore Sales Dataset](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting), with the main goal of gaining a deeper understanding of business performance by analyzing sales trends, customer behavior, and the effectiveness of different product lines.
